@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MrG-Andrew/Memory-Game.git/static/css/main.a308ffd0.chunk.css",
+    "main.js": "/MrG-Andrew/Memory-Game.git/static/js/main.c995ed7b.chunk.js",
+    "main.js.map": "/MrG-Andrew/Memory-Game.git/static/js/main.c995ed7b.chunk.js.map",
+    "runtime-main.js": "/MrG-Andrew/Memory-Game.git/static/js/runtime-main.76606d11.js",
+    "runtime-main.js.map": "/MrG-Andrew/Memory-Game.git/static/js/runtime-main.76606d11.js.map",
+    "static/js/2.1f1d959a.chunk.js": "/MrG-Andrew/Memory-Game.git/static/js/2.1f1d959a.chunk.js",
+    "static/js/2.1f1d959a.chunk.js.map": "/MrG-Andrew/Memory-Game.git/static/js/2.1f1d959a.chunk.js.map",
+    "index.html": "/MrG-Andrew/Memory-Game.git/index.html",
+    "static/css/main.a308ffd0.chunk.css.map": "/MrG-Andrew/Memory-Game.git/static/css/main.a308ffd0.chunk.css.map",
+    "static/js/2.1f1d959a.chunk.js.LICENSE.txt": "/MrG-Andrew/Memory-Game.git/static/js/2.1f1d959a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76606d11.js",
+    "static/js/2.1f1d959a.chunk.js",
+    "static/css/main.a308ffd0.chunk.css",
+    "static/js/main.c995ed7b.chunk.js"
+  ]
+}
