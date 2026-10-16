@@ -21,13 +21,12 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 16
           cache: yarn
       - run: yarn install --frozen-lockfile
       - run: yarn build
         env:
           PUBLIC_URL: /Memory-Game
-          NODE_OPTIONS: --openssl-legacy-provider
           CI: false
       - uses: actions/upload-pages-artifact@v3
         with:
